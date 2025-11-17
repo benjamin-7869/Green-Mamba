@@ -22,3 +22,9 @@ to run this tool you need this 5 security codes
 3) ALPHA-7
 4) GAMMA-55
 5) ROOT-ACCESS
+
+### 👤 My Accounts 👤
+
+<a href="https://www.instagram.com/nexera.exe?igsh=ZHBuN200bnlsM2xp"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
+<a href="https://t.me/Shyethcisgirl"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a><br>
